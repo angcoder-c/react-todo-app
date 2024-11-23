@@ -1,0 +1,17 @@
+.form-input {
+    width: 80%;
+    border:none;
+    border-radius: 5px;
+    padding: 3% 10%;
+    font-size: 30px;
+    margin: 3rem 0 5rem 0;
+    font-size: 20px;
+    transition: .4s;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-input:focus{
+    outline: none;
+    box-shadow: 0 0 50px white;
+    transition: .4s;
+}
