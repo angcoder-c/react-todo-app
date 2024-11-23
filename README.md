@@ -2,6 +2,8 @@
 
 A Simple Task Manager Built with React.js and Vite
 
+![run gif](https://github.com/angcoder-c/react-todo-app/blob/main/public/todoapp-ezgif.com-video-to-gif-converter.gif)
+
 ## Getting Started
 
 ### Prerequisites
